@@ -1,0 +1,1 @@
+def writeToFile(filename, content):
